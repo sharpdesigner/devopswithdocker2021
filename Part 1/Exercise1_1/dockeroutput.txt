@@ -1,0 +1,5 @@
+C:\Users\syedm>docker container ls
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS     NAMES
+3c149c2961ca   nginx     "/docker-entrypoint.…"   10 seconds ago   Up 8 seconds    80/tcp    interesting_yonath
+32eda8ef250d   nginx     "/docker-entrypoint.…"   14 seconds ago   Up 12 seconds   80/tcp    unruffled_herschel
+cb19479e600f   nginx     "/docker-entrypoint.…"   43 seconds ago   Up 41 seconds   80/tcp    distracted_bartik
