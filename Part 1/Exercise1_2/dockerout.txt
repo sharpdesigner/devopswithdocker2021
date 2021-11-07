@@ -1,0 +1,5 @@
+C:\Dev\Source\container\devopswithdocker2021>docker ps -as
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES     SIZE
+
+C:\Dev\Source\container\devopswithdocker2021>docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
